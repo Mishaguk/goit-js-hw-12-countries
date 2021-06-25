@@ -1,0 +1,30 @@
+.single-country {
+    display: none;
+  }
+  
+  .show {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .country-search {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .details {
+    display: flex;
+  }
+  
+  .right {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #flag {
+    width: 200px;
+  }
+  
